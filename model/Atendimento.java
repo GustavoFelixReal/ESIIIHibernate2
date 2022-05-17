@@ -1,4 +1,4 @@
-package ESIIIHibernateDDL1.model;
+package ESIIIHibernateDDL2.model;
 
 import java.time.LocalDate;
 

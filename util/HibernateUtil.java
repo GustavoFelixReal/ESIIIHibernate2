@@ -1,4 +1,4 @@
-package ESIIIHibernateDDL1.util;
+package ESIIIHibernateDDL2.util;
 
 import java.util.Properties;
 
@@ -9,10 +9,10 @@ import org.hibernate.cfg.Environment;
 import org.hibernate.service.ServiceRegistry;
 
 import ESIIIFactoryATS.model.Funcionario;
-import ESIIIHibernateDDL1.model.Atendente;
-import ESIIIHibernateDDL1.model.Atendimento;
-import ESIIIHibernateDDL1.model.Cliente;
-import ESIIIHibernateDDL1.model.Entregador;
+import ESIIIHibernateDDL2.model.Atendente;
+import ESIIIHibernateDDL2.model.Atendimento;
+import ESIIIHibernateDDL2.model.Cliente;
+import ESIIIHibernateDDL2.model.Entregador;
 
 public class HibernateUtil {
   private static SessionFactory sessionFactory;
